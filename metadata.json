@@ -1,0 +1,8 @@
+{
+  "name": "The Real Blend | Top Digital News \u0026 Entertainment",
+  "description": "Kenya\u0027s premier digital news and entertainment platform bringing you breaking news, politics, entertainment, sports, lifestyle, and trending stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
